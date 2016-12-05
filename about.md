@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 I am:
+
 * a technology manager
 * a former (and still wannabe) software developer
 * an amateur tinkerer with microcontrollers and electronics
