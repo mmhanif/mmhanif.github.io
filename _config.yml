@@ -16,7 +16,6 @@
 title: input -> Hanif -> output
 email: mmhanif@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The personal blog of Mahmood Hanif.
   Musings on coding, technology, management, personal development and
   other miscellania.
 baseurl: "" # the subpath of your site, e.g. /blog
