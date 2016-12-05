@@ -26,6 +26,8 @@ github_username:  mmhanif
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 theme: minima
 gems:
   - jekyll-feed
