@@ -24,7 +24,7 @@ twitter_username: mmhanif
 github_username:  mmhanif
 
 disqus:
-  shortname: my_disqus_shortname
+  shortname: hanif-io
 	
 # Build settings
 markdown: kramdown
