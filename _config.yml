@@ -25,7 +25,7 @@ github_username:  mmhanif
 
 disqus:
   shortname: hanif-io
-	
+
 # Build settings
 markdown: kramdown
 kramdown:
