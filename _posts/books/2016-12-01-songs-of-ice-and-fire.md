@@ -13,3 +13,5 @@ categories: books
 - **A Storm of Swords (A Song of Ice and Fire, Book 3)**
 - **A Feast for Crows (A Song of Ice and Fire, Book 4)**
 all by George R.R. Martin
+
+I read the entire set of books in the 'A Song of Ice and Fire' series a few years, before I started watching the HBO tv series, *Game of Thrones*. After the last season of the tv series finished, I wanted to remind myself of the differences between the books and tv series, so I started to re-read/re-listen to the books (mostly re-listen to them on audiobook). As with the first reading I got through the first three books very quickly and enjoyed reminding myself of the plot intricacies and nuanced characterization that the tv series could not show. However, things slowed down dramatically with the fourth book, *A Feast for Crows*, and it was a bit of a slog to get to the end. So much so that I couldn't really motivate myself to start the fifth book. Perhaps I will read it prior to the start of the next season of the tv series.

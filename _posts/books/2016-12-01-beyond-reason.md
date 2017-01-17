@@ -23,6 +23,7 @@ I re-read this book in 2016, having originally read it back in 2005 when it came
 Core concerns can be used as a *lens* to understand our emotions and those of others, and as a *lever* to stimulate positive emotions.
 
 **Five Core Concerns**
+
 - Appreciation: Your thoughts, feelings and actions are acknowledged as having merit.
 - Affiliation: You are treated as a colleague.
 - Autonomy: Others respect your freedom to decide important matters.
@@ -30,6 +31,7 @@ Core concerns can be used as a *lens* to understand our emotions and those of ot
 - Role: You so define your role and its activities that you find them fulfilling.
 
 **Decision Making Guidelines: I-C-N**
+
 - **I**nform 
 - **C**onsult, then decide
 - **N**egotiate joint agreement
