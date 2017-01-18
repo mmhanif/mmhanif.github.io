@@ -4,11 +4,11 @@ title:  "What I read in 2016"
 categories: books
 tags: [books, lists, 2016]
 ---
-I've always been a pretty avid reader. Some time this year I came across an article suggesting you should read 50 books a year. (I can't remember the exact article, but googling 'read 50 books a year' brings up a lot of articles and blog posts, so it's clearly a popular concept.)
+I've always been a pretty avid reader. Some time this year I came across an article suggesting a target of 50 books a year. (I can't remember the exact article, but googling 'read 50 books a year' brings up a lot of articles and blog posts, so it's clearly a popular concept.)
 
 Although I love physical books, I switched to e-books some years ago. I typically read during my commute (~3 hrs a day) either on my Kindle or by listening to an audiobook. Ever since Amazon bought Audible a few years back they have been improving the integration between their e-books and audiobooks, so that if you own both, your reading position gets synched between them. They often have deals where you can get the audiobooks for a few dollars when you buy the e-book, so I have been doing that whenever I get the chance. 
 
-I fell short of the target of 50 this year, but here's what I did get through in 2016:
+I fell short of the target of 50 this year, but here's what I did get through in 2016 (click through for more details on each book):
 
 1. [**Ex-Heroes**  - Peter Clines]({{ site.baseurl }}{% link _posts/books/2016-12-01-ex-heroes-series.md %}) 
 2. [**Ex-Patriots** - Peter Clines]({{ site.baseurl }}{% link _posts/books/2016-12-01-ex-heroes-series.md %}) 
