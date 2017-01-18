@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "What I read in 2016"
-date:   2016-12-18 09:52:17 -0500
 categories: books
-comments: true 
+tags: [books, lists, 2016]
 ---
 I've always been a pretty avid reader. Some time this year I came across an article suggesting you should read 50 books a year. (I can't remember the exact article, but googling 'read 50 books a year' brings up a lot of articles and blog posts, so it's clearly a popular concept.)
 

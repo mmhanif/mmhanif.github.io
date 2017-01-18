@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Ex-Heroes Series"
-categories: books
+category: books
+tags: [books, fiction, science-fiction, superheroes, zombies]
 ---
 
 <div>

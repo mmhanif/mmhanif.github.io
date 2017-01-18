@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Ideal Team Player"
-categories: books
+category: books
+tags: [books, non-fiction, management]
 ---
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01FMW25Z8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FMW25Z8&linkCode=as2&tag=42models-20&linkId=7e8176367284d7d7dbbf94303a497748"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FMW25Z8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=42models-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=42models-20&l=am2&o=1&a=B01FMW25Z8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

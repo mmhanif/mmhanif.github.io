@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Naval Stories"
-categories: books
+category: books
+tags: [books, non-fiction, management, leadership, military]
 ---
 <a target="_blank"  href="https://www.amazon.com/gp/product/1591846404/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846404&linkCode=as2&tag=42models-20&linkId=461090bb0e5907b6bd09b561391aa714"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1591846404&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=42models-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=42models-20&l=am2&o=1&a=1591846404" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a target="_blank"  href="https://www.amazon.com/gp/product/145552302X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145552302X&linkCode=as2&tag=42models-20&linkId=593b049bd7ac0766e4b39fa56cb824da"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=145552302X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=42models-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=42models-20&l=am2&o=1&a=145552302X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
