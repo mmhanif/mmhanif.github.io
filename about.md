@@ -11,10 +11,10 @@ I am:
 * an amateur tinkerer with microcontrollers and electronics
 * a husband, father, son, brother
 * a reader
-* an Ahmadi Muslim
+* an [Ahmadi Muslim](http://www.alislam.org/introduction/index.html)
 * an American
 * a Brit
-* an Irishman at heart
+* an [Irishman](http://www.galwaycity.ie/) at heart
 * of Pakistani descent
-* an engineer by training
-* a fan of Liverpool Football Club
+* an [engineer](http://www.imperial.ac.uk/electrical-engineering) by training
+* a fan of [Liverpool Football Club](http://www.thisisanfield.com/)
