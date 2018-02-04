@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "What I read in 2017"
+categories: books
+tags: [books, lists, 2017]
+---
+Just like 2016, I set myself a target of reading 50 books in 2017, and just like 2016, I fell a little short. Moving from New Jersey to London in the Summer is my excuse.
+
+Here's what I did get through in 2017 (click through for more details on each book):
+
+1. [[*Kindle*] **Leaders Eat Last: Why Some Teams Pull Together and Others Don’t** by Simon Sinek]({{ site.baseurl }}{% link _posts/books/2017-01-07-leaders-eat-last.md %}) 
+2. [[*Kindle*] **Deep Work: Rules for Focused Success in a Distracted World** by Cal Newport]({{ site.baseurl }}{% link _posts/books/2017-01-12-deep-work.md %})
+3. [[*Audible*] **It Worked for Me: In Life and Leadership** by Colin Powell]({{ site.baseurl }}{% link _posts/books/2017-01-14-it-worked-for-me.md %})
+4. [[*Kindle*] **Be the Business: CIOs in the New Era of IT** by Martha Heller]({{ site.baseurl }}{% link _posts/books/2017-01-27-be-the-business.md %})
+5. [[*Kindle*] **The Art Of Business Value** by Mark Schwartz]({{ site.baseurl }}{% link _posts/books/2017-02-06-art-of-business-value.md %}) 
+6. [[*Audible*] **The Network: The Battle for the Airwaves and the Birth of the Communications Age** by Scott Woolley]({{ site.baseurl }}{% link _posts/books/2017-02-10-the-network.md %})
+7. [[*Audible*] **Dark Matter: A Novel** by Blake Crouch]({{ site.baseurl }}{% link _posts/books/2017-02-28-dark-matter.md %})
+8. [[*Kindle*] **Pre-Suasion: A Revolutionary Way to Influence and Persuade** by Robert Cialdini]({{ site.baseurl }}{% link _posts/books/2017-03-04-pre-suasion.md %})
+9. [[*Audible*] **You Have the Right to Remain Innocent** by James Duane]({{ site.baseurl }}{% link _posts/books/2017-03-15-you-have-the-right-to-remain-silent.md %})
+10. [[*Kindle*] **Implementing Beyond Budgeting: Unlocking the Performance Potential** by Bjarte Bogsnes]({{ site.baseurl }}{% link _posts/books/2017-03-29-implementing-beyond-budgeting.md %})
+11. [[*Audible*] **Guilty Minds** by Joseph Finder]({{ site.baseurl }}{% link _posts/books/2017-04-10-guilty-minds.md %})
+12. [[*Audible*] **Quiet Power: The Secret Strengths of Introverts** by Susan Cain , Gregory Mone , Erica Moroz]({{ site.baseurl }}{% link _posts/books/2017-04-15-quiet-power-introverted-kids.md %})
+13. [[*ePub*] **Impact Mapping** by Gojko Adzic]({{ site.baseurl }}{% link _posts/books/2017-04-30-impact-mapping.md %})
+14. [[*Kindle*] **Dictator: A novel (Ancient Rome Trilogy)** by Robert Harris]({{ site.baseurl }}{% link _posts/books/2017-05-08-dictator.md %})
+15. [[*Audible*] **The Lessons of History** by Will and Ariel Durant]({{ site.baseurl }}{% link _posts/books/2017-05-13-lessons-of-history.md %})
+16. [[*Audible*] **A Study in Scarlet** by Arthur Conan Doyle]({{ site.baseurl }}{% link _posts/books/2017-05-31-sherlock-holmes.md %})
+17. [[*Audible*] **The Sign of Four** by Arthur Conan Doyle]({{ site.baseurl }}{% link _posts/books/2017-05-31-sherlock-holmes.md %})
+18. [[*Audible*] **The Adventures of Sherlock Holmes** by Arthur Conan Doyle]({{ site.baseurl }}{% link _posts/books/2017-05-31-sherlock-holmes.md %})
+19. [[*Audible*] **The Memoirs of Sherlock Holmes** by Arthur Conan Doyle]({{ site.baseurl }}{% link _posts/books/2017-05-31-sherlock-holmes.md %})
+20. [[*Audible*] **The Hound of the Baskervilles** by Arthur Conan Doyle]({{ site.baseurl }}{% link _posts/books/2017-05-31-sherlock-holmes.md %})
+21. [[*Audible*] **The Return of Sherlock Holmes** by Arthur Conan Doyle]({{ site.baseurl }}{% link _posts/books/2017-05-31-sherlock-holmes.md %})
+22. [[*Kindle*] **Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity** by Kim Scott]({{ site.baseurl }}{% link _posts/books/2017-06-14-radical-candor.md %})
+23. [[*Audible*] **Silos, Politics and Turf Wars** by Patrick Lencioni]({{ site.baseurl }}{% link _posts/books/2017-06-30-silos-politics-turf-wars.md %})
+24. [[*ePub*] **Blockchain Basics: A Non-Technical Introduction in 25 Steps** by Daniel Drescher]({{ site.baseurl }}{% link _posts/books/2017-07-31-blockchain-basics.md %})
+25. [[*Kindle*] **The Late Show** by Michael Connelly]({{ site.baseurl }}{% link _posts/books/2017-08-09-late-show.md %})
+26. [[*Kindle and Audible*] **Sapiens: A Brief History of Humankind** by Yuval Noah Harari]({{ site.baseurl }}{% link _posts/books/2017-08-09-sapiens.md %})
+27. [[*Audible*] **The Switch** by Joseph Finder]({{ site.baseurl }}{% link _posts/books/2017-09-15-the-switch.md %})
+28. [[*Kindle and Audible*] **Home Fire** by Kamila Shamsie]({{ site.baseurl }}{% link _posts/books/2017-09-24-home-fire.md %})
+29. [[*Audible*] **Sourdough** by Robin Sloan]({{ site.baseurl }}{% link _posts/books/2017-10-01-sourdough.md %})
+30. [[*Audible*] **Paradox Bound** by Peter Clines]({{ site.baseurl }}{% link _posts/books/2017-10-13-paradox-bound.md %})
+31. [[*Audible*] **Two Kinds of Truth** by Michael Connelly]({{ site.baseurl }}{% link _posts/books/2017-10-20-two-kinds-of-truth.md %})
+32. [[*Audible*] **The Three Body Problem** by Cixin Liu]({{ site.baseurl }}{% link _posts/books/2017-10-30-three-body-problem.md %})
+33. [[*Audible*] **Spark: The Revolutionary New Science of Exercise and the Brain** by John J. Ratey]({{ site.baseurl }}{% link _posts/books/2017-11-05-spark.md %})
+34. [[*Audible*] **Exit West: A Novel** by Mohsin Hamid]({{ site.baseurl }}{% link _posts/books/2017-11-15-exit-west.md %}) 
+35. [[*Kindle*] **Ubiquity: Why Catastrophes Happen** by Mark Buchanan]({{ site.baseurl }}{% link _posts/books/2017-12-07-ubiquity.md %})
+36. [[*Kindle*] **Letters of Note: An Eclectic Collection of Correspondence Deserving of a Wider Audience** by Shaun Usher]({{ site.baseurl }}{% link _posts/books/2017-12-20-letters-of-note.md %})
+
+
+
