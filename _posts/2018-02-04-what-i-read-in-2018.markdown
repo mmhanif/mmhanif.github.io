@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "What I read in 2018"
+categories: books
+tags: [books, lists, 2018]
+---
+
+Currently reading:
+
+* [*Kindle*] **Principles: Life and Work** by Ray Dalio
+* [*Audible*] **The Rise and Fall of D.O.D.O.: A Novel** by Neal Stephenson and Nicole Galland
+
+What I've read so far in 2018:
+
+1. [[*Audible*] **Dead Men Can't Complain and Other Stories** by Peter Clines]({{ site.baseurl }}{% link _posts/books/2017-01-07-leaders-eat-last.md %}) 
+
+
+
+
