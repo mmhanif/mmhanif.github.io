@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "What I read in 2018"
+categories: books
+tags: [books, lists, 2018]
+---
+
+Currently reading:
+
+* [*Kindle*] **Accelerate: Building and Scaling High Performing Technology Organizations** by Nicole Forsgren, Jez Humble and Gene Kim
+* [*Audible*] **The Wife Between Us** by Greer Hendricks, Saah Pekkanen
+
+What I've read so far in 2018:
+
+1. [[*Audible*] **Dead Men Can't Complain and Other Stories** by Peter Clines]({{ site.baseurl }}{% link _posts/books/2018-01-14-dead-men-cant-complain.md %}) 
+2. [[*Kindle*] **Principles: Life and Work** by Ray Dalio]({{ site.baseurl }}{% link _posts/books/2018-02-07-principles-life-and-work.md %}) 
+3. [[*Audible*] **The Rise and Fall of D.O.D.O.: A Novel** by Neal Stephenson and Nicole Galland]({{ site.baseurl }}{% link _posts/books/2018-03-02-rise-and-fall-of-dodo.md %})
+4. [[*Audible*] **City of Thieves** by David Benioff]({{ site.baseurl }}{% link _posts/books/2018-03-31-city-of-thieves.md %}) 
+5. [[*Audible*] **Humans vs. Computers** by Gojko Adzic]({{ site.baseurl }}{% link _posts/books/2018-03-16-humans-vs-computers.md%}) 
+6. [[*Kindle*] **The Theory That Would Not Die** by Sharon Bertsch McGrayne‎]({{ site.baseurl }}{% link _posts/books/2018-03-12-theory-that-wouldnt-die.md %}) 
+7. [[*Kindle*] **Bayes Theorem: A Visual Introduction For Beginners** by Ian Morris]({{ site.baseurl }}{% link _posts/books/2018-03-18-bayes-theorem-visual-introduction.md %}) 
+8. [[*Kindle*] **Bayes Theorem Examples: An Intuitive Guide** by Scott Hartshorn]({{ site.baseurl }}{% link _posts/books/2018-04-01-bayes-theorem-examples.md %}) 
+9. [[*Audible*] **Admissions: Life as a Brain Surgeon** by Henry Marsh]({{ site.baseurl }}{% link _posts/books/2018-04-02-admissions.md%}) 
+10. [[*Audible*] **West Cork** by Jennifer Forde, Sam Bungey]({{ site.baseurl }}{% link _posts/books/2018-04-15-west-cork.md %}) 
+11. [[*Audible*] **Where the Hell is Tesla?: A Novel** by Rob Dircks]({{ site.baseurl }}{% link _posts/books/2018-04-30-where-the-hell-is-tesla.md %}) 
+12. [[*Kindle*] **Thinking in Bets** by Annie Duke]({{ site.baseurl }}{% link _posts/books/2018-05-01-thinking-in-bets.md %}) 
+13. [[*Audible*] **Andrea Vernon and the Corporation For Ultrahuman Protection** by Alexander C. Kane]({{ site.baseurl }}{% link _posts/books/2018-05-30-andrea-vernon-and-cup.md %}) 
+14. [[*Kindle*] **A Seat At The Table** by Mark Sschwartz]({{ site.baseurl }}{% link _posts/books/2018-06-18-seat-at-the-table.md %}) 
+
+
+
+
+
