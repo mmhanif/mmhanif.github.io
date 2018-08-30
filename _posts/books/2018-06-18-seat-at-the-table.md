@@ -6,7 +6,7 @@ tags: [books, non-fiction, software-development]
 ---
 
 
-**A Seat At The Table** by Mark Sschwartz
+**A Seat At The Table** by Mark Schwartz
 
 *Kindle*
 

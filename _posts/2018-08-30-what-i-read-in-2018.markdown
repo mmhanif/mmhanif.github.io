@@ -7,8 +7,8 @@ tags: [books, lists, 2018]
 
 Currently reading:
 
-* [*Kindle*] **Accelerate: Building and Scaling High Performing Technology Organizations** by Nicole Forsgren, Jez Humble and Gene Kim
-* [*Audible*] **The Wife Between Us** by Greer Hendricks, Sarah Pekkanen
+* [*Kindle*] **The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World** by Pedro Domingos
+* [*Audible*] **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick,  Robert Vamosi 
 
 What I've read so far in 2018:
 
@@ -26,7 +26,11 @@ What I've read so far in 2018:
 12. [[*Kindle*] **Thinking in Bets** by Annie Duke]({{ site.baseurl }}{% link _posts/books/2018-05-01-thinking-in-bets.md %}) 
 13. [[*Audible*] **Andrea Vernon and the Corporation For Ultrahuman Protection** by Alexander C. Kane]({{ site.baseurl }}{% link _posts/books/2018-05-30-andrea-vernon-and-cup.md %}) 
 14. [[*Kindle*] **A Seat At The Table** by Mark Sschwartz]({{ site.baseurl }}{% link _posts/books/2018-06-18-seat-at-the-table.md %}) 
-
+15. [[*Audible*] **The Wife Between Us** by Greer Hendricks, Sarah Pekkanen]({{ site.baseurl }}{% link _posts/books/2018-06-30-the-wife-between-us.md %})
+16. [[*Audible*] **Bad Blood** by John Carreyrou]({{ site.baseurl }}{% link _posts/books/2018-07-30-bad-blood.md %})
+17. [[*Kindle*] **Accelerate** by Nicole Forsgren, Jez Humble and Gene Kim]({{ site.baseurl }}{% link _posts/books/2018-07-15-accelerate.md %})
+18. [[*Hardcover*] **The Order of Time** by Carlos Rovelli]({{ site.baseurl }}{% link _posts/books/2018-08-15-order-of-time.md %})
+19. [[*Audible*] **The Driver** by Hart Hanson]({{ site.baseurl }}{% link _posts/books/2018-08-30-the-driver.md %})
 
 
 
