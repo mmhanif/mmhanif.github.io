@@ -7,8 +7,8 @@ tags: [books, lists, 2018]
 
 Currently reading:
 
-* [*Kindle*] **The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World** by Pedro Domingos
-* [*Audible*] **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick,  Robert Vamosi 
+* [*Kindle*] **Alone Time: Four Seasons, Four Cities, and the Pleasures of Solitude** by Stephanie Rosenbloom
+* [*Audible*] **The Coming Storm** by Michael Lewis 
 
 What I've read so far in 2018:
 
@@ -31,6 +31,8 @@ What I've read so far in 2018:
 17. [[*Kindle*] **Accelerate** by Nicole Forsgren, Jez Humble and Gene Kim]({{ site.baseurl }}{% link _posts/books/2018-07-15-accelerate.md %})
 18. [[*Hardcover*] **The Order of Time** by Carlos Rovelli]({{ site.baseurl }}{% link _posts/books/2018-08-15-order-of-time.md %})
 19. [[*Audible*] **The Driver** by Hart Hanson]({{ site.baseurl }}{% link _posts/books/2018-08-30-the-driver.md %})
+20. [[*Audible*] **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick,  Robert Vamosi]({{ site.baseurl }}{% link _posts/books/2018-09-22-the-art-of-invisibility.md %})
+21. [[*Kindle*] **The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World** by Pedro Domingos]({{ site.baseurl }}{% link _posts/books/2018-09-24-the-master-algorithm.md %})
 
 
 
