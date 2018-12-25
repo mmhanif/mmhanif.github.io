@@ -7,7 +7,6 @@ tags: [books, lists, 2018]
 
 Currently reading:
 
-* [*Kindle*] **Dark Sacred Night** by Michael Connelly
 * [*Kindle*] **Istanbul: A Tale of Three Cities** by Bettany Hughes
 * [*Kindle*] **Judgement in Managerial Decision Making** by Max H. Bazerman and Don A. Moore
 * [*Kindle*] **Brilliant Mistakes** by Paul J. H. Schoemaker  
@@ -43,6 +42,7 @@ What I've read so far in 2018:
 27. [[*Kindle*] **The Witch Elm** by Tana French]({{ site.baseurl }}{% link _posts/books/2018-11-01-the-witch-elm.md %})
 28. [[*Kindle*] **Alone Time: Four Seasons, Four Cities, and the Pleasures of Solitude** by Stephanie Rosenbloom]({{ site.baseurl }}{% link _posts/books/2018-11-05-alone-time.md %})
 29. [[*Kindle*] **Mistakes Were Made (But Not by Me)** by Carol Tavris,  Elliot Aronson]({{ site.baseurl }}{% link _posts/books/2018-12-13-mistakes-were-made.md %})
+30. [[*Kindle*] **Dark Sacred Night** by Michael Connelly]({{ site.baseurl }}{% link _posts/books/2018-12-22-dark-sacred-night.md %})
 
 
 
