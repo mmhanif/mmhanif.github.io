@@ -10,3 +10,5 @@ tags: [books, fiction, detective]
 **Lethal White (A Cormoran Strike novel)** by Robert Galbraith
 
 *Kindle*
+
+The fourth in the Cormoran Strike series of novels by Robert Galbraith (aka JK Rowling). Galbraith/Rowling is such a great rider that each of the novels in the series has been am enjoyable read. My only criticism is that, for me at least, the characters in the novel don't really linger in the memory. 

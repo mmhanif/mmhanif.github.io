@@ -11,3 +11,5 @@ tags: [books, non-fiction, science]
 
 *Kindle*
 
+Fascinating history of Bayes Theorem and the struggle to have it accepted alongside more classical frequentist approaches to probability and statistics. Before reading this book, I had no idea of how controversial Bayes Theory and the vitriol it provoked in certain sections of academia. The only downside of this book for me (and it may be a positive for others) is that I never really got a good sense from the book of the actual mathematics underlying Bayes Theory and specifically why it was so tricky to apply before the advent of modern computers.
+

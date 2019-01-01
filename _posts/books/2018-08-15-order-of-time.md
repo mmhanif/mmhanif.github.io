@@ -11,3 +11,4 @@ tags: [books, non-fiction, science]
 
 *Hardcover*
 
+One of the year's most mindblowing reads. Carlos Rovelli takes the reader on an investigation into what time really means and how it relates to our fundamental understanding of physics. From learning how time is not a constant but speeds up or slows down the closer or further away we are from large masses or how fast we are traveling, through to a discussion on how entropy is really the only time-irreversible property in physics to a discussion of the more metaphysical aspects of time, this book enlightens and challenges throughout. A book that undoubtedly needs multiple reads to eke out all its treasures but yields value even on the first pass through.

@@ -5,13 +5,22 @@ categories: books
 tags: [books, lists, 2018]
 ---
 
-Currently reading:
+My favourite non-fiction books that I read in 2018:
 
-* [*Kindle*] **Istanbul: A Tale of Three Cities** by Bettany Hughes
-* [*Kindle*] **Judgement in Managerial Decision Making** by Max H. Bazerman and Don A. Moore
-* [*Kindle*] **Brilliant Mistakes** by Paul J. H. Schoemaker  
+1. The Order of Time by Carlos Rovelli
+2. Mistakes Were Made (But Not by Me) by Carol Tavis and Elliot Arronson
+3. A Seat at the Table by Mark Schwartz 
+4. Bad Blood by John Carreyrou
+5. Principles: Life and Work by Ray Dalio
 
-What I've read so far in 2018:
+My favourite fiction books that I read in 2018:
+
+1. City of Thieves by David Benioff
+2. The Witch Elm by Tana French
+3. The Rise and Fall of D.O.D.O by Neal Stephenson and Nicole Galland
+
+
+All the books I read (or listened to) in 2018:
 
 1. [[*Audible*] **Dead Men Can't Complain and Other Stories** by Peter Clines]({{ site.baseurl }}{% link _posts/books/2018-01-14-dead-men-cant-complain.md %}) 
 2. [[*Kindle*] **Principles: Life and Work** by Ray Dalio]({{ site.baseurl }}{% link _posts/books/2018-02-07-principles-life-and-work.md %}) 

@@ -10,3 +10,5 @@ tags: [books, non-fiction, cyber-security]
 **The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data** by Kevin D. Mitnick,  Robert Vamosi
 
 *Audible*
+
+A tour through the world of information security and privacy led my famous (infamous?) hacker Kevin Mitnick. Although there was some pretty basic advice here and there, there were also plenty of things that I learnt from this book to make it a useful read.

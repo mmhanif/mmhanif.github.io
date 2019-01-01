@@ -10,3 +10,5 @@ tags: [books, fiction, play]
 **Girls & Boys** by Dennis Kelly
 
 *Audible*
+
+Actress Carey Mulligan gives a phenomenal performance delivering this monologue audiobook version of the Dennis Kelly play which she also performed live on stage. Be prepared for an emotional rollercoaster - not for the faint-hearted.

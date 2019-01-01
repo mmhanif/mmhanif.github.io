@@ -10,3 +10,5 @@ tags: [books, non-fiction, travel]
 **Alone Time: Four Seasons, Four Cities, and the Pleasures of Solitude** by Stephanie Rosenbloom
 
 *Kindle*
+
+As a self-declared introvert, I was intrigued by the premise of this book: reflections on traveling solo in four cities. One of the cities, Istanbul, was a destination I would be (re-)visiting soon (although not alone) so that was an added incentive. The other cities - Paris, Florence and New York were all places I had visited on previous occasions also. The chapter on a visit to a Hamam in Istanbul (an experience I was inspired to emulate) was worth the price of the book alone.

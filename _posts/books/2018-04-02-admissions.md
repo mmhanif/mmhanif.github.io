@@ -11,3 +11,4 @@ tags: [books, non-fiction, memoirs]
 
 *Audible*
 
+A follow-on to the excellent "Do No Harm", "Admissions" has its high-points but overall is a bit of a let down compared to its predecessor.

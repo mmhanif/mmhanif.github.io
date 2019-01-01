@@ -11,3 +11,4 @@ tags: [books, non-fiction, science]
 
 *Kindle*
 
+Another introduction to Bayes Theorem, this time using a more tabular, Excel-oriented approach. Compared to the Dan Morris book, this one does go into some more complex applications (such as spam-filtering and the "German Tank Problem") in detail. A useful complement to the Morris book.

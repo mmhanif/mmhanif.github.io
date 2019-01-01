@@ -11,3 +11,4 @@ tags: [books, fiction, science-fiction, time-travel]
 
 *Audible*
 
+A science-fiction novel that mashes-up time travel and magic - what's not to love? I really enjoyed listening to this on Audible - the multiple narrators were great, the underlying conceit was an original one (at least to me) and the various periods that the book time-traveled to seemed to spring to life. 

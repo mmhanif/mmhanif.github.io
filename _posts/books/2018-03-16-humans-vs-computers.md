@@ -11,3 +11,5 @@ tags: [books, non-fiction, software-development]
 
 *Kindle*
 
+This was a enjoyable trip through the various ways that poorly thought-through decisions and incorrect assumptions can have on ordinary people lives. A must-read for anyone in the software business.
+

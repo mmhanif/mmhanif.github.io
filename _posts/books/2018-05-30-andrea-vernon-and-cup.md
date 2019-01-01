@@ -11,3 +11,5 @@ tags: [books, fiction, science-fiction]
 
 *Audible*
 
+A super-hero science fiction sub-genre novel that was a slow-burn for me but that I ended up enjoying in the end. It's unusual in that the heroine is an African-American woman and the book generally has a number of strong female characters. Throw-away but fun.
+

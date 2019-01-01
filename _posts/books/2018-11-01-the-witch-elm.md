@@ -10,3 +10,9 @@ tags: [books, fiction, mystery]
 **The Witch Elm** by Tana French
 
 *Kindle*
+
+To me, Tana French novels have a certain haunting quality, an atmosphere that lasts far after you've finished the novel. After you've read a few of her books you'll know that her protagonists are always changed in some fundamental way by the end, broken along some dimension of their being. You don't want to be a primary character in one of her novels.
+
+The Witch Elm is somewhat different than her previous Dublin Murder Squad novels in that the narrative isnt described through the eyes of the police investigating the crime but instead through the eyes of the victim. It's still great and her writing is (as always) breathtaking at times. Unlike, say, Michael Connelly or JK Rowling, she isnt primarily a storyteller but someone who creates scenes and tensions that envelope you.
+
+Although this has gotten some negative reviews relative to her earlier novels, I was not disappointed in the least.

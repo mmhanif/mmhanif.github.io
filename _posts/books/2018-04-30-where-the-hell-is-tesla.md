@@ -11,3 +11,4 @@ tags: [books, fiction, science-fiction]
 
 *Audible*
 
+I have a thing for the time-travel sub-genre of science fiction and the fact that this novel had Nicola Tesla as a character made it initially appealing. The two main characters turned out to be "bros" and I found their dialog to be somewhat irritating. Forgettable. 

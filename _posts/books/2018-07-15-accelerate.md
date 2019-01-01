@@ -11,3 +11,42 @@ tags: [books, non-fiction, software-development]
 
 *Kindle*
 
+I was definitely looking forward to reading this as one of the authors, Gene Kim, also co-authored one of my favorite books related to software development, "The Phoenix Project". This book is a little drier than the Phoenix Project ... actually a lot drier. It's an assesment of what software development practices are the biggest indicators of success based on rigorous research.
+
+Their research uncovered 24 key capabilities that drive software delivery performance, classified into five categories:
+
+**CONTINUOUS DELIVERY CAPABILITIES**
+1. Version Control
+2. Deployment Automation
+3. Continuous Integration
+4. Trunk-based Development
+5. Test Automation
+6. Test Data Management
+7. Shift-left on Security
+8. Continuous Deployment
+
+**ARCHITECTURE CAPABILITIES**
+9. Loosely-coupled Architecture
+10. Empowered Teams
+
+**PRODUCT AND PROCESS CAPABILITIES**
+11. Customer Feedback
+12. Value Stream
+13. Working in Small Batches
+14. Team Experimentation
+
+**LEAN MANAGEMENT AND MONITORING CAPABILITIES**
+15. Lightweight Change Approval Processes
+16. Monitoring
+17. Proactive Notification
+18. WIP Limits
+19. Visualizing Work
+
+**CULTURAL CAPABILITIES**
+20. Westrum Organizational Culture
+21. Support Learning
+22. Collaboration Among Teams
+23. Job Satisfaction
+24. Transformational Leadership
+
+

@@ -11,3 +11,4 @@ tags: [books, non-fiction, science]
 
 *Kindle*
 
+A short book that attempts to provide an intuitives introduction to Bayes Theorem using Venn Diagrams and Decision Trees. The worked through examples are simple ones and although it does mention real-life problems that were solved using Bayes Theorem it doesnt walk through the application of the theorem in any detail for these cases. This is fair enough as it does state that it's an introduction for beginners, as the book is succesful in that stated goal.

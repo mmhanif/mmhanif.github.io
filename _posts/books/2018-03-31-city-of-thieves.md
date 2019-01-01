@@ -11,3 +11,4 @@ tags: [books, fiction, historical]
 
 *Audible*
 
+This was a great story, set in Stalingrad (aka St Petersburg) during the siege by the Germans in World War 2. It really made me thankful that I've never had to face such conditions and made me wonder how I would react if I did. This story stayed with me for a long time after I had finished it.   

@@ -11,3 +11,5 @@ tags: [books, non-fiction, software-development]
 
 *Kindle*
 
+The follow on from the equally brilliant "The Art of Business Value", to my mind this is a must-read for anyone working in IT in a enterprise environment. It really helped clarify concerns that I had bubbling in the back of my mind for many years in how to reconcile agile software development concepts with the annual project management and budgeting cycles within a large corporation. It also speaks succesfully to the larger question of the role that the technology department can and should play in a modern organization. Now, if only I can persuade more senior IT managers in my industry to read this!
+

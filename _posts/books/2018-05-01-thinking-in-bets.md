@@ -11,3 +11,10 @@ tags: [books, non-fiction, science]
 
 *Kindle*
 
+This is one of those books which has an intriguing premise that is reasonably well explained in the first chapter and then the rest of the book is really just an elaboration of that concept without providing much additional value.
+
+The key concept is that we tend to judge a decision by the result that it produced - a positive result means it was a good decision, a negative result means it was a bad decision. In reality, you can get lucky and get a good result from a bad decision or unlucky and get a bad result from a good decision. We need to assess the quality of the decision using the a-priori information available at the time rather than the after-the-fact result.
+
+The author then elaborates on this using her experience as a professional-poker player to help us see decisions as bets on the future with our degree of confidence in the decision analagous to the betting-odds.
+
+Overall, an interesting read, but you could probably get 80% of the value by just reading a detailed review.
