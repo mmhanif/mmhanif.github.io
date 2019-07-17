@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "What I read in 2019"
+categories: books
+tags: [books, lists, 2019]
+---
+
+Currently reading:
+
+- [*Kindle*] **Thinking in Systems: A Primer** by Donella H. Meadows
+- [*Audible*] **Cryptonomicon** by Neal Stephenson
+
+
+
+All the books I read (or listened to) in 2019:
+
+1. [[*Audible*] **Righteous** by Joe Ide]({{ site.baseurl }}{% link _posts/books/2019-01-11-righteous.md %})
+2. [[*Audible*] **Ghettoside: A True Story of Murder in America** by Jill Leovy]({{ site.baseurl }}{% link _posts/books/2019-02-01-ghettoside.md %})
+3. [[*Audible* and *Kindle*] **The Half Has Never Been Told: Slavery and the Making of American Capitalism** by Edward E. Baptist]({{ site.baseurl }}{% link _posts/books/2019-02-01-the-half-has-never-been-told.md %})
+4. [[*Kindle*] **Algorithms To Live By: The Computer Science of Human Decisions** by Brian Christian and Tom Griffiths]({{ site.baseurl }}{% link _posts/books/2019-02-01-algorithms-to-live-by.md %})
+5. [[*Audible*] **Wrecked** by Joe Ide]({{ site.baseurl }}{% link _posts/books/2019-02-01-wrecked.md %})
+6. [[*Audible*] **Sakina's Restaurant** by Aasif Mandvi]({{ site.baseurl }}{% link _posts/books/2019-02-01-sakinas-restaurant.md %})
+7. [[*Audible*] **Holding: A Novel** by Graham Norton]({{ site.baseurl }}{% link _posts/books/2019-02-01-holding.md %})
+8. [[*Audible*] **Educated: A Memoir** by Tara Westover]({{ site.baseurl }}{% link _posts/books/2019-02-01-educated.md %})
+9. [[*Audible*] **The Dispatcher** by Jogn Scalzi]({{ site.baseurl }}{% link _posts/books/2019-02-01-dispatcher.md %})
+10. [[*Audible*] **Power Moves: Lessons from Davos** by Adam Grant]({{ site.baseurl }}{% link _posts/books/2019-02-01-power-moves.md %})
+11. [[*Audible*] **A Knight of the Seven Kingdoms** by George R.R. Martin]({{ site.baseurl }}{% link _posts/books/2019-02-01-knight-of-seven-kingdoms.md %})
+12. [[*Audible*] **A Mind of Her Own** by Paula McLain]({{ site.baseurl }}{% link _posts/books/2019-02-01-mind-of-her-own.md %})
+13. [[*Audible*] **Beyond the Phoenix Project** by Gene Kim and John Willis]({{ site.baseurl }}{% link _posts/books/2019-02-01-beyond-phoenix-project.md %})
+14. [[*Kindle*] **Project to Product** by Mik Kersten]({{ site.baseurl }}{% link _posts/books/2019-02-01-project-to-product.md %})
+
+
+
+
+
+
