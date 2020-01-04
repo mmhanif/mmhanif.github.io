@@ -1,7 +1,10 @@
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 
 _posts/.DS_Store
 
 .DS_Store
+
+*.lock
