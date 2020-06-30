@@ -1,0 +1,54 @@
+<style>
+  #row1{
+      display:flex;
+      flex-direction:row;
+  justify-content: space-around;
+  }
+
+  #myDiv1{
+      display:flex;
+      flex-direction:column;
+
+  }
+
+
+  #myDiv2{
+      display:flex;
+      flex-direction:column;
+  }
+</style>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<div id="row1">
+<div class="left-div" id="myDiv2" style="width:400px;height:400px;"></div>
+<div class="right-div" id="myDiv1" style="width:400px;height:400px;"></div>
+</div>
+
+<script>
+  var formats_data = [{
+    values: [11, 1, 2, 1, 2],
+    labels: ['Audible', 'Kindle', 'Hardcover', 'Audible and Kindle', 'Paperback'],
+    type: 'pie'
+  }];
+
+  var formats_layout = {
+    title : "Formats",
+    height: 400,
+    width: 400
+  };
+
+  var genre_data = [{
+    values: [8, 9],
+    labels: ['Fiction', 'Non-Fiction'],
+    type: 'pie'
+  }];
+
+  var genre_layout = {
+    title : "Genres",
+    height: 400,
+    width: 400
+  };
+
+  Plotly.newPlot('myDiv1', formats_data, formats_layout);
+  Plotly.newPlot('myDiv2', genre_data, genre_layout);
+</script>
